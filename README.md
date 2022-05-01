@@ -1,4 +1,5 @@
 satir sayisini giriniz : 5
+<br>
     c
    ccc
   ccccc
