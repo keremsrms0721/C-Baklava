@@ -1,6 +1,6 @@
 satir sayisini giriniz : 5
 <br>
-    c
+     c
     <br>
    ccc<br>
   ccccc<br>
