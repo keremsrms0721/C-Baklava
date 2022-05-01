@@ -1,11 +1,12 @@
 satir sayisini giriniz : 5
 <br>
     c
-   ccc
-  ccccc
- ccccccc
-ccccccccc
- ccccccc
-  ccccc
-   ccc
-    c
+    <br>
+   ccc<br>
+  ccccc<br>
+ ccccccc<br>
+ccccccccc<br>
+ ccccccc<br>
+  ccccc<br>
+   ccc<br>
+    c<br>
